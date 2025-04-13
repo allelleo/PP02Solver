@@ -1,0 +1,8 @@
+rows: 3
+cols: 4
+supply: 20 30 25
+demand: 10 30 25 10
+costs:
+8 6 10 9
+9 7 4 2
+3 4 2 5
